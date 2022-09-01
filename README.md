@@ -1,15 +1,14 @@
-### Hi, I'm Harold Mo! 👋
+### Hi there 👋, Harold Mo
+#### CS Student at UC Santa Barbara
+I am Harold and I am from Los Angeles, CA. I enjoy working on websites using HTML/CSS/JS and I am currently learning React!
 
-Here are some ideas to get you started:
+Skills: HTML / CSS / JS / C++ / Python
 
-- 🔭 I’m currently working on an online NBA player searching application
-- 🌱 I’m currently learning JavaScript
-- 👯 I’m looking to collaborate on any web application
-- 🤔 I’m looking for help with React
-- 📫 How to reach me: LinkedIn Profile: https://www.linkedin.com/in/harold-mo/
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I enjoy watching sports (Soccer or Futbol, Basketball, and American Football :)
-<!--- - 💬 Ask me about ... --->
+- 🔭 I’m currently working on an online NBA player search application. 
+- 👯 I’m looking to collaborate on any web application 
+- 😄 Pronouns: He/His/Him 
+- ⚡ Fun fact: I enjoy watching sports (Soccer or Futbol, Basketball, and American Football 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wyzae23)](https://github.com/anuraghazra/github-readme-stats)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Wyzae23)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/harold-mo//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://wyzae23.github.io/portfolio/)  
 
