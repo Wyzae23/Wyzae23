@@ -1,4 +1,4 @@
-### Hi there 👋, Harold Mo
+### Hi there 👋!
 #### CS Student at UC Santa Barbara
 I am Harold and I am from Los Angeles, CA. I enjoy working on websites using HTML/CSS/JS and I am currently learning React!
 
