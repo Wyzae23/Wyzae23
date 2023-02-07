@@ -7,7 +7,7 @@ Skills: HTML / CSS / JS / C++ / Python
 - 🔭 I’m currently working on an online NBA player search application. 
 - 👯 I’m looking to collaborate on any web application 
 - 😄 Pronouns: He/His/Him 
-- ⚡ Fun fact: I enjoy watching sports (Soccer, Basketball, and Football 
+- ⚡ Fun fact: I enjoy watching sports (Soccer, Basketball, and Football)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Wyzae23)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' color='white' background='white' background-color='white'>](https://www.linkedin.com/in/https://www.linkedin.com/in/harold-mo//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://wyzae23.github.io/portfolio/)  
