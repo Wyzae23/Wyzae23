@@ -9,6 +9,10 @@ Los Angeles, CA
 
 ### 💼 Experience
 
+**AI Software Engineer Intern**  
+*Stealth Company* | October 2024 - Present  
+- Designed and developed full-stack AI-powered multi-agent applications as cloud-based platform extension services
+
 **Software Engineer Intern**  
 *IBM* | June 2024 - September 2024  
 - Developed a full-stack UI tool using Python, React, and FastAPI to improve QA processes and automate test management.
