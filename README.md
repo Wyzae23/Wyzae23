@@ -11,7 +11,7 @@ Los Angeles, CA
 
 **AI Software Engineer Intern**  
 *Stealth Company* | October 2024 - Present  
-- Designed and developed full-stack AI-powered multi-agent applications as cloud-based platform extension services
+- Building core platform features and platform extension services using TypeScript and Next.js.
 
 **Software Engineer Intern**  
 *IBM* | June 2024 - September 2024  
