@@ -1,41 +1,49 @@
 ## 👋 Hi, I’m Harold!
 
 **`Software Engineer | Machine Learning Researcher`**  
+
+I'm a Computer Science Master's student at UC Santa Barbara passionate about backend systems, AI infrastructure, and building scalable, developer-friendly tools. I've interned at both startups and enterprise companies, where I contributed to backend development, AI platform infrastructure, and test automation systems
+
+
 Los Angeles, CA  
-✉️ [haroldmo23@gmail.com](mailto:haroldmo23@gmail.com)  
+✉️ [Email](mailto:haroldmo23@gmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/harold-mo)
 
 ---
 
-### 💼 Experience
+## 💼 Experience
 
-**AI Software Engineer Intern**  
-*Stealth Company* | October 2024 - Present  
-- Building core platform features and platform extension services using TypeScript and Next.js.
+### Software Engineer Intern @ AppFolio  
+*Jun 2025 – Sep 2025*  
+Working on backend systems for the accounting platform using Ruby on Rails.
 
-**Software Engineer Intern**  
-*IBM* | June 2024 - September 2024  
-- Developed a full-stack UI tool using Python, React, and FastAPI to improve QA processes and automate test management.
+### Software Engineer Intern @ Weave Cloud (Startup)  
+*Oct 2024 – Jun 2025*  
+Built backend infrastructure and APIs for a low-code AI workflow platform using TypeScript and Next.js.
 
-**Machine Learning Researcher**  
-*UC Santa Barbara* | January 2023 - Present  
-- Researched pretrained text embeddings and clustering techniques, analyzing their impact on classification tasks and bias in models.
+### Software Engineer Intern @ IBM  
+*Jun 2024 – Sep 2024*  
+Developed a full-stack QA automation tool using Python, FastAPI, and React.
 
----
+### Machine Learning Researcher @ UC Santa Barbara  
+*Jan 2023 – Jun 2024*  
+Conducted research on text embeddings and clustering techniques for fairness-aware classification.
 
-### 🛠️ Skills
+
+## 🛠️ Technical Skills
 
 **Languages:**  
-Python, JavaScript, TypeScript, C++, Java, HTML/CSS, OCaml
+Python, JavaScript, TypeScript, C++, Java, Ruby, Go, HTML/CSS
 
-**Frameworks/Libraries:**  
-React, Node.js, Django, Next.js, FastAPI, LangChain, ChromaDB, Pandas, NumPy, PyTorch, Scikit-learn, Transformers, Matplotlib, SciPy, Material-UI, Pydantic, SQLite3, Selenium
-
-**Tools:**  
-Git, GitHub, Visual Studio Code, Docker, AWS, Jenkins, Vercel, Pinecone, MongoDB Atlas, Google OAuth, Bash
+**Frameworks & Libraries:**  
+React, Next.js, Node.js, Django, FastAPI, PyTorch, LangChain, LangGraph, PyTest, Ruby on Rails
 
 **Databases:**  
-MongoDB, SQLite3, Redis
+PostgreSQL, MongoDB, Redis, SQLite3, Supabase, Pinecone
 
-**Development Methodologies:**  
-Agile, CI/CD, REST API development
+**Tools & Platforms:**  
+Git, GitHub, Docker, AWS (Lambda, S3), Jenkins, Vercel, MongoDB Atlas, Google OAuth, Bash
+
+**Concepts & Methodologies:**  
+Microservices, Containerization, CI/CD Pipelines, REST & GraphQL APIs, Distributed Systems,  
+Multithreading & Concurrency, Relational & NoSQL Databases, Data Structures & Algorithms, Agile Development
