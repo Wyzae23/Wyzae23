@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Harold! 
 
-I'm a Computer Science Master's student at UC Santa Barbara passionate about backend systems, AI infrastructure, and building scalable, developer-friendly tools. I've interned at both startups and enterprise companies, where I contributed to backend development, AI platform infrastructure, and test automation systems
+I'm a Computer Science Master's student at UC Santa Barbara passionate about backend systems, AI infrastructure, and building scalable, developer-friendly tools. I've interned at both startups and enterprise companies, where I contributed to frontend/backend development, AI platform infrastructure, and test automation systems
 
 
 Los Angeles, CA  
