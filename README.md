@@ -13,7 +13,7 @@ Los Angeles, CA
 
 ### Software Engineer Intern @ AppFolio  
 *Jun 2025 – Sep 2025*  
-Working on backend systems for the accounting platform using Ruby on Rails.
+Delivering full-stack features to the budgeting service using Ruby on Rails and React
 
 ### Software Engineer Intern @ Weave Cloud (Startup)  
 *Oct 2024 – Jun 2025*  
