@@ -13,7 +13,7 @@ Los Angeles, CA
 
 ### Software Engineer Intern @ Tesla  
 *Sep 2025 – Present*  
-Delivering backend features to the FleetNet Connected Systems team, focusing on remote vehicle interactions. Currently working on Robotaxi using Go and improving a full-stack internal tool using Ruby on Rails and React
+Wokring on Robotaxi, with a focus on Go, Ruby on Rails, Kubernetes, Kafka, and distributed systems
 
 ### Software Engineer Intern @ AppFolio  
 *Jun 2025 – Sep 2025*  
