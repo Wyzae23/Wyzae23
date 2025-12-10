@@ -13,7 +13,7 @@ Los Angeles, CA
 
 ### Software Engineer Intern @ Tesla  
 *Sep 2025 – Present*  
-Wokring on Robotaxi, with a focus on Go, Ruby on Rails, Kubernetes, Kafka, and distributed systems
+Working on Robotaxi, with a focus on Go, Ruby on Rails, Kubernetes, Kafka, and distributed systems
 
 ### Software Engineer Intern @ AppFolio  
 *Jun 2025 – Sep 2025*  
